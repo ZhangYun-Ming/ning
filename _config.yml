@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "cn-Chinese"
+title                    : "Zhang Yunming / 储存库"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Zhang Yunming"
+  pronouns         : # he
+  bio              : "热爱一切的中国人"
+  location         : "XinXiang, Henan ,China"
+  employer         : "河南师范大学附属中学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "BluestarStubborn@hotmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
