@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Homepage"
+locale                   : "cn-Chinese"
+title                    : "主页"
 title_separator          : "-"
 name                     : &name "张云铭"
 description              : &description "personal description"
