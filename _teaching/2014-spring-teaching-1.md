@@ -1,20 +1,4 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
+# 在Pango（国际SARS-CoV-2研究）中的贡献
+Contribution to Pango (International SARS-CoV-2 Research)
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+谱系 | 提案时间 | 提案地址 | 谱系全名 | 主要发现地
