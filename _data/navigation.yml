@@ -3,17 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "随笔"
+    url: /suibi/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "贡献"
+    url: /gongxian/    
     
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "文章"
+    url: /wenzhang/
     
   - title: "CV"
     url: /cv/
