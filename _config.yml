@@ -252,14 +252,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _gongxian
-  - scope:
-      path: ""
-      type: wenzhang
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 
 # Sass/SCSS
